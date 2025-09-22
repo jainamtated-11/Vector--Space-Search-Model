@@ -1,2 +1,2 @@
-# Vector--Space-Search-Model
+# Vector-Space-Search-Model
 Information Retrival
